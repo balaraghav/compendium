@@ -1,0 +1,1 @@
+console.log(Number(112).toString(2));
