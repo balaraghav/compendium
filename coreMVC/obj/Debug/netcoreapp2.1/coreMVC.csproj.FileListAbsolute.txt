@@ -31,3 +31,8 @@
 /Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/coreMVC.pdb
 /Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/coreMVC.csproj.CopyComplete
 /Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/HelloWorld/index.g.cshtml.cs
+/Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Create.g.cshtml.cs
+/Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Delete.g.cshtml.cs
+/Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Details.g.cshtml.cs
+/Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Edit.g.cshtml.cs
+/Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Index.g.cshtml.cs

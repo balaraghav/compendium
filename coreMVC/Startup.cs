@@ -10,6 +10,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+using Microsoft.EntityFrameworkCore;
+using coreMVC.Models;
+using MvcMovie.Models;
+
 namespace coreMVC
 {
     public class Startup
@@ -30,6 +34,10 @@ namespace coreMVC
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+
+            services.AddDbContext<MvcMovieContext>(options =>
+                              options.UseSqlite("Data Source=MvcMovie.db"));
+
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
