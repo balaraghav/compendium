@@ -10,4 +10,20 @@ namespace coreMVC.Models
         public string Genre { get; set; }
         public decimal Price { get; set; }
     }
+
+    public class Teacher
+    {
+        public int TeacherId { get; set; }
+        public string Code { get; set; }
+        public string Name { get; set; }
+    }
+
+    public class Student
+    {
+        public int StudentId { get; set; }
+        public string Code { get; set; }
+        public string Name { get; set; }
+        public string EnrollmentNo { get; set; }
+    }
+
 }

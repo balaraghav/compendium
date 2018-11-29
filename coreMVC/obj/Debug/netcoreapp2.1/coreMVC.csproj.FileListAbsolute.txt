@@ -36,3 +36,4 @@
 /Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Details.g.cshtml.cs
 /Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Edit.g.cshtml.cs
 /Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Movies/Index.g.cshtml.cs
+/Users/balaraghavanandaravind/Documents/compendium/coreMVC/obj/Debug/netcoreapp2.1/Razor/Views/HelloWorld/welcome.g.cshtml.cs

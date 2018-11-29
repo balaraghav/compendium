@@ -1,0 +1,14 @@
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/algorithms.deps.json
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/algorithms.runtimeconfig.json
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/algorithms.runtimeconfig.dev.json
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/algorithms.dll
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/bin/Debug/netcoreapp2.1/algorithms.pdb
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/obj/Debug/netcoreapp2.1/algorithms.csprojAssemblyReference.cache
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/obj/Debug/netcoreapp2.1/algorithms.csproj.CoreCompileInputs.cache
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/obj/Debug/netcoreapp2.1/algorithms.AssemblyInfoInputs.cache
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/obj/Debug/netcoreapp2.1/algorithms.AssemblyInfo.cs
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/obj/Debug/netcoreapp2.1/algorithms.dll
+/Users/balaraghavanandaravind/Documents/compendium/algorithms/obj/Debug/netcoreapp2.1/algorithms.pdb
