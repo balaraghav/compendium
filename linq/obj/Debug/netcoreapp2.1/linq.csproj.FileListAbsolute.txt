@@ -1,0 +1,11 @@
+/Users/balaraghavanandaravind/Documents/compendium/linq/bin/Debug/netcoreapp2.1/linq.deps.json
+/Users/balaraghavanandaravind/Documents/compendium/linq/bin/Debug/netcoreapp2.1/linq.runtimeconfig.json
+/Users/balaraghavanandaravind/Documents/compendium/linq/bin/Debug/netcoreapp2.1/linq.runtimeconfig.dev.json
+/Users/balaraghavanandaravind/Documents/compendium/linq/bin/Debug/netcoreapp2.1/linq.dll
+/Users/balaraghavanandaravind/Documents/compendium/linq/bin/Debug/netcoreapp2.1/linq.pdb
+/Users/balaraghavanandaravind/Documents/compendium/linq/obj/Debug/netcoreapp2.1/linq.csprojAssemblyReference.cache
+/Users/balaraghavanandaravind/Documents/compendium/linq/obj/Debug/netcoreapp2.1/linq.csproj.CoreCompileInputs.cache
+/Users/balaraghavanandaravind/Documents/compendium/linq/obj/Debug/netcoreapp2.1/linq.AssemblyInfoInputs.cache
+/Users/balaraghavanandaravind/Documents/compendium/linq/obj/Debug/netcoreapp2.1/linq.AssemblyInfo.cs
+/Users/balaraghavanandaravind/Documents/compendium/linq/obj/Debug/netcoreapp2.1/linq.dll
+/Users/balaraghavanandaravind/Documents/compendium/linq/obj/Debug/netcoreapp2.1/linq.pdb
